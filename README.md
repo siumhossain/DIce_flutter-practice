@@ -4,7 +4,7 @@
   A basic random dice value generator app for just practice flutter.
  <br> Here is the inside look of this app
  </p>
- ![dice_application](/app_inside.gif)
+ ![dice_application](https://github.com/siumhossain/DIce_flutter-practice/blob/master/app_inside.gif)
  
 
 
