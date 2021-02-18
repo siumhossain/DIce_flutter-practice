@@ -1,8 +1,8 @@
 # Random dice value generate app by using flutter
 
 <p>
-  A basic random dice value generator app for just practice flutter.
- <br> Here is the inside look of this app
+  A basic random dice value generator app for just practice flutter.🤷🏻‍♂️
+ <br> Here is the inside look of this app👀
  </p>
 <img src="https://github.com/siumhossain/DIce_flutter-practice/blob/master/images/app_inside.gif">
 
