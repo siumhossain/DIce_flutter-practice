@@ -1,4 +1,4 @@
-# dice
+# Random dice value generate app by using flutter
 
 <p>
   A basic random dice value generator app for just practice flutter.
