@@ -2,7 +2,7 @@
 
 <p>
   A basic random dice value generator app for just practice flutter.
-  Here is the inside look of this app
+ <br> Here is the inside look of this app
  </p>
  ![dice_application](/app_inside.gif)
  
